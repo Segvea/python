@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72410c29-e098-4949-a472-86a806a876c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NEW/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bild/main.ру.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main/main.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main/warn-main.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main/xref-main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main2/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main2/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main2/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main2/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main2/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main2/main2.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main2/warn-main2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/build/main2/xref-main2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/calc.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/fr12.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/gh.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/gh1.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/main.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/main.ру.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/main2.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/test.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled.ui" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2bBLjTwvSse2h3GEzWnD6CUflOX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72410c29-e098-4949-a472-86a806a876c2" name="Changes" comment="" />
+      <created>1705683660723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705683660723</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
